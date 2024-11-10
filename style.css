@@ -33,7 +33,7 @@ body {
 
 .happy-woman-day {
   color: white;
-  font-size: 50px;
+  font-size: 30px;
   position: fixed;
   top: 80px;
 }
@@ -48,7 +48,7 @@ body {
   bottom: 10vmin;
   transform-origin: bottom center;
   z-index: 10;
-  --fl-speed: 0.8s;
+  --fl-speed: 0.7s;
 }
 .flower--1 {
   animation: moving-flower-1 4s linear infinite;
